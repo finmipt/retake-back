@@ -1,0 +1,20 @@
+{
+  "admin": [
+    { "text": "Manage Events", "href": "/admin/manage-events" },
+    { "text": "Create Event", "href": "/admin/create-event" },
+    { "text": "Settings", "href": "/admin/settings" },
+    { "text": "Duty", "href": "/duty" }
+  ],
+  "user": [
+    { "text": "Profile", "href": "/user/profile" },
+    { "text": "Settings", "href": "/user/settings" }
+  ],
+  "student": [
+    { "text": "Profile", "href": "/student/profile" },
+    { "text": "Registrerida", "href": "/student/register" }
+  ],
+  "teacher": [
+    { "text": "Welcome", "href": "/guest/welcome" },
+    { "text": "Contact", "href": "/guest/contact" }
+  ]
+}
